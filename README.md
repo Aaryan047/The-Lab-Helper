@@ -1,26 +1,6 @@
 # The-Lab-Helper
 The Lab Helper is a curated repository of C++ codes for algorithms, classical problems, and common programming patterns. Whether you are preparing for coding interviews, competitive programming, or just want a ready reference for your projects, this repository is your go-to helper lab.
 
-📂 Repository Structure
-The-Lab-Helper/
-├── Algorithms/
-│   ├── Sorting/
-│   ├── Searching/
-│   └── Graphs/
-├── DataStructures/
-│   ├── Trees/
-│   ├── LinkedLists/
-│   └── StacksAndQueues/
-├── ClassicalProblems/
-│   ├── DP/
-│   ├── Greedy/
-│   └── Backtracking/
-├── Utilities/
-│   ├── Math/
-│   ├── String/
-│   └── BitManipulation/
-└── README.md
-
 ⚙️ Features
 
 Algorithms: Popular algorithms including sorting, searching, dynamic programming, graph algorithms, and more.
@@ -35,9 +15,7 @@ Clone the repository:
 Navigate to the desired folder:
 cd The-Lab-Helper/Algorithms/Sorting
 
-Compile and run the code (example with g++):
-g++ bubble_sort.cpp -o bubble_sort
-./bubble_sort
+Compile and run the code (example with g++): g++ bubble_sort.cpp -o bubble_sort./bubble_sort
 
 Contributing
 
