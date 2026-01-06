@@ -1,38 +1,63 @@
-# The-Lab-Helper
-The Lab Helper is a curated repository of C++ codes for algorithms, classical problems, and common programming patterns. Whether you are preparing for coding interviews, competitive programming, or just want a ready reference for your projects, this repository is your go-to helper lab.
+# The Lab Helper
 
-⚙️ Features
+The Lab Helper is a practical, topic-wise collection of **C++ implementations** for commonly taught algorithms, data structures, and classical programming problems.
 
-Algorithms: Popular algorithms including sorting, searching, dynamic programming, graph algorithms, and more.
-Data Structures: Ready-to-use C++ classes and functions for trees, linked lists, stacks, queues, etc.
-Classical Problems: Solutions for common coding interview and competitive programming problems.
-Utilities: Handy snippets for math operations, strings, and bitwise tricks.
-Clean & Modular Code: Clear, reusable, and well-commented code.
+This repository is designed as a **lab and reference utility** — not a tutorial series, not a competitive programming template dump, and not a shortcut for interviews.
 
-💡 Usage
+---
 
-Clone the repository:
-Navigate to the desired folder:
-cd The-Lab-Helper/Algorithms/Sorting
+## Purpose
 
-Compile and run the code (example with g++): g++ bubble_sort.cpp -o bubble_sort./bubble_sort
+The goal of this repository is simple:
 
-Contributing
+- provide **correct, compilable C++ code**
+- organize algorithms **by topic** for quick access
+- serve as a **reliable reference** during labs, practice, and revision
 
-Contributions are welcome!
-Fork the repository.
-Create a branch for your feature or bugfix.
-Commit changes with clear messages.
-Push to your fork and create a pull request.
-Ensure your code is well-commented and follows a consistent structure.
+The focus is on **clarity, consistency, and correctness**, not clever tricks or micro-optimizations.
 
-📚 References
-Competitive programming platforms: Codeforces, LeetCode, HackerRank
-Standard C++ references and textbooks
+---
 
-⭐ Support
-If you find this repository useful, give it a ⭐!
+## Repository Structure
 
-📜 License
+The repository is organized by topic.  
+Each top-level folder contains self-contained implementations related to that area.
 
-This repository is MIT Licensed.
+Each file is written to be:
+- easy to locate
+- easy to compile
+- safe to use in labs and coursework
+
+---
+
+## What This Repository Is (and Isn’t)
+
+### It **is**:
+- a lab helper
+- a quick reference for standard algorithms
+- a clean collection of fundamental implementations
+
+### It **is not**:
+- a competitive programming cheat sheet
+- an interview preparation guide
+- a replacement for textbooks or theory notes
+
+Advanced optimizations and CP-specific tricks are **intentionally avoided**.
+
+## Contributions
+Contributions are welcome, provided they:
+- follow the existing folder structure
+- maintain readability and consistency
+- avoid unnecessary optimizations
+- include only standard, well-known approaches
+
+If you find bugs, unclear logic, or missing edge cases, feel free to open an issue or submit a pull request.
+
+## License
+
+This repository is licensed under the MIT License.
+
+## Author
+
+Aaryan Vinod Kumar
+Engineering Student @ NSUT
